@@ -4,6 +4,10 @@ Bem-vindo ao meu repositório de soluções para os desafios da plataforma Beecr
 ## Objetivo
 Meu objetivo aqui é compartilhar as soluções que desenvolvi para os desafios propostos pela Beecrowd. Este repositório não só serve como um registro do meu progresso como programadora, mas também como uma fonte de aprendizado e inspiração para outros entusiastas da programação.
 
+
+## Organização do Repositório
+- branch: franbs/bee/iniciante: Estão todos sendo adicionados todos os exercícios de nível iniciante primeiramente a ela, após todos os exercícios estarem completos, será adicionado na brach main.
+
 ## Tecnologias e Ferramentas
 Utilizo diversas tecnologias e ferramentas para criar e compartilhar minhas soluções:
 
